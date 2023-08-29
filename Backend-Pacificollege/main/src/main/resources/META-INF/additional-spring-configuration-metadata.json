@@ -1,0 +1,47 @@
+{"properties": [
+  {
+    "name": "juan.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'juan.app.jwtSecret'"
+  },
+  {
+    "name": "juan.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'juan.app.jwtExpirationMs'"
+  },
+  {
+    "name": "juan.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'juan.app.jwtExpirationMs'"
+  },
+  {
+    "name": "juan.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'juan.app.jwtExpirationMs'"
+  },
+  {
+    "name": "juan.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'juan.app.jwtExpirationMs'"
+  },
+  {
+    "name": "juan.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'juan.app.jwtExpirationMs'"
+  },
+  {
+    "name": "juan.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'juan.app.jwtExpirationMs'"
+  },
+  {
+    "name": "juan.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'juan.app.jwtExpirationMs'"
+  },
+  {
+    "name": "juan.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'juan.app.jwtExpirationMs'"
+  }
+]}

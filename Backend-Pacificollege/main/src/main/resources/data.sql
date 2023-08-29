@@ -1,0 +1,4 @@
+-- insert 
+--   into public.autentificacion (username, pass) 
+--   values ('timothy@pacificollege.com', 'pccollege2017')
+--   on conflict (username) do nothing;
